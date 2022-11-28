@@ -1,0 +1,11 @@
+ul li {
+	padding-right: 1rem;
+	line-height: 40px;
+}
+
+nav{
+	background-color: #fff;
+}
+.navbar-brand{
+	line-height: 40px;
+}
